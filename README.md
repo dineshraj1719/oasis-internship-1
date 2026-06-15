@@ -31,4 +31,4 @@ Scikit-learn
 Jupyter Notebook
 Project Outcome
 
-Successfully built a machine learning model that accurately classifies iris flower species and demonstrates the fundamentals of supervised learning.
+Successfully built a data science model that accurately classifies iris flower species and demonstrates the fundamentals of supervised learning.
