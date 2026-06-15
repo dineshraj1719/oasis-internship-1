@@ -1,1 +1,3 @@
 # oasis-internship-1
+
+The Iris Flower Classification project was successfully implemented using Machine Learning techniques. Exploratory Data Analysis revealed strong correlations among flower measurements, especially petal dimensions. Multiple classification algorithms including Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, and Support Vector Machine were evaluated. Random Forest achieved the highest classification performance with near-perfect accuracy. Hyperparameter tuning and cross-validation further improved model reliability. The developed model can accurately classify Iris flowers into Setosa, Versicolor, and Virginica species based on their morphological measurements.
